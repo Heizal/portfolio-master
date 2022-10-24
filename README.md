@@ -1,5 +1,5 @@
 # MY PORTFOLIO
-This is my porfolio site containing the projects that I have built in Reactjs
+This is my porfolio site containing the projects that I have worked on
 
 ## Live Link
 https://heizal-nagginda-portfolio.netlify.app/
