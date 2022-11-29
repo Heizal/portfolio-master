@@ -2,8 +2,10 @@ import React from 'react';
 import './workcard.css';
 
 function WorkCard({item}) {
-    return <div className='work-card'>
-        <img src={item.companyLogo} className='work-logo' />
+    return <div className='work-card'>           
+            <a href={item.link}>
+                <img src={item.companyLogo} className='work-logo' />
+            </a>      
         <div className='work-info'>
             <label className='company-name'>{item.company}</label>
 

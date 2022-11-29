@@ -14,11 +14,11 @@ export const SocialData =[
         link: "https://twitter.com/itsheizal",
         icon: require('../../assets/icons/twitter.png').default
     },
-    {
-        platform : "Hashnode",
-        link: "https://hashnode.com/@Heizal",
-        icon: require('../../assets/icons/hashnode.png').default
-    },
+    // {
+    //     platform : "Hashnode",
+    //     link: "https://hashnode.com/@Heizal",
+    //     icon: require('../../assets/icons/hashnode.png').default
+    // },
     {
         platform : "Gmail",
         link: "mailto:patricia.nagginda@code.berlin",

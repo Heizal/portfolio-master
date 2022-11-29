@@ -12,12 +12,12 @@ function Contact() {
                     <p>Want to get in touch? Contact me on any of these platforms.</p>
                     <SocialContent/>
                 </div>
-                <div className='download'>
+                {/* <div className='download'>
                     <a download href={require('../../../assets/resume.pdf').default}>
                         <i class="fi-rr-cloud-download download-icon"></i>
                         Download Resume
                     </a>
-                </div>
+                </div> */}
             </div>
         </div>
 }
